@@ -8,6 +8,6 @@ The companies bid on the areas every BID is stored in the DB and every auction, 
 
 Insert2 populates the DB.
 
-
+LINK: http://web.ist.utl.pt/ist174262/BD/login.php
 
 The project is in MySQL and PHP.
